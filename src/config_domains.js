@@ -1,6 +1,6 @@
 const API_URL = {
-  development: "https://localhost:7238/api/ProduktetAPI",
-  production: "https://your-production-domain.com/api/ProduktetAPI",
+  development: "https://localhost:7238/api/",
+  production: "https://your-production-domain.com/api/",
 };
 
 const getApiUrl = () => {
