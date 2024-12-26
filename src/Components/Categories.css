@@ -1,0 +1,16 @@
+.categories-container.light {
+    background-color: #f8f9fa; /* Light background */
+    color: #000; /* Dark text color */
+}
+
+.categories-container.dark {
+    background-color: #343a40; /* Dark background */
+    color: #fff; /* Light text color */
+}
+
+/* Optional: Additional styles */
+.categories-container {
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+}
